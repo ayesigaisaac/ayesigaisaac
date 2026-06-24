@@ -36,15 +36,7 @@ A passionate software engineer focused on building robust web applications, expl
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-
----
-
-### ✍️ Developer Perspective
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## ☕ Support My Work
 If you find my projects helpful or want to support my open-source contributions, feel free to buy me a coffee!
