@@ -1,16 +1,11 @@
 # 🚀 Hi, I'm Isaac Ayesiga | Full-Stack Developer
 
 A passionate software engineer focused on building robust web applications, exploring blockchain/consensus mechanics, and contributing to open-source ecosystems.
-
----
-
 ## 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayesigai921@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ayesigaisaac)
 [![X (formerly Twitter)](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/ayesiga_isaac4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ayesigai921)
-
----
 
 ## 💻 Technical Tech Stack
 
@@ -36,14 +31,6 @@ A passionate software engineer focused on building robust web applications, expl
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-
 ## ☕ Support My Work
 If you find my projects helpful or want to support my open-source contributions, feel free to buy me a coffee!
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayesigai921@gmail.com)
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayesigaisaac&icon=0&color=0" alt="Profile Views" />
-</p>
