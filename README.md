@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isaac Ayesiga 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer</b> | Building robust web applications, exploring Web3 mechanics, and contributing to open-source.
+  <b>Full-Stack Software Engineer</b> | Building robust web applications, exploring Web3, AI/ML, and contributing to open-source.
 </p>
 
 <p align="center">
@@ -14,58 +14,45 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate software engineer focused on building scalable, user-centric web applications. My core expertise lies in the React/Node ecosystem, but I am deeply fascinated by blockchain consensus mechanisms and decentralized architectures. I believe in writing clean, maintainable code and building products that solve real-world problems.
+I am a passionate software engineer focused on building scalable, user-centric applications. My core expertise lies in the React/Node ecosystem, but I am deeply fascinated by low-level systems (C/C++), Artificial Intelligence, and decentralized architectures. I believe in writing clean, maintainable code and building products that solve real-world problems.
 
 - 🔭 I’m currently working on: **DA Link (Diversify Associate Link)** — A multi-tiered affiliate tracking platform.
-- 🌱 I’m currently deepening my knowledge in: **Solidity, Smart Contracts, and System Design.**
-- 💬 Ask me about: **React, Express, REST APIs, and UI/UX implementation.**
-- ⚡ Fun fact: I love turning complex backend logic into seamless frontend experiences.
+- 🌱 I’m currently deepening my knowledge in: **AI/ML models, IoT architecture, and Solidity.**
+- 💬 Ask me about: **React, Express, C++, and integrating hardware with software.**
+- ⚡ Fun fact: I love turning complex backend logic into seamless user experiences.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Technical Arsenal
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="65" height="65" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="Solidity" width="65" height="65" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+#### 🚀 Languages & Core Programming
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, React Native, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs, Solidity (Smart Contracts)  
-**Databases & Cloud:** MongoDB, PostgreSQL, Supabase  
-**DevOps:** Git, GitHub Actions, Vercel
+#### 🌐 Frontend & Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend, AI & IoT
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+#### 🗄️ Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
