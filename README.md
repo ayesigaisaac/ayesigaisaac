@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Isaac Ayesiga 👋</h1>
+<h1 align="center">AYESIGA ISAAC </h1>
 
 <p align="center">
   <b>Full-Stack Software Engineer</b> | Building robust web applications, exploring Web3, AI/ML, and contributing to open-source.
